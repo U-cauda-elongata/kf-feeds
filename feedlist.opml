@@ -5,38 +5,38 @@
 	</head>
 	<body>
 		<outline text="公式サイト">
-			<outline text="けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/" xmlUrl="https://kemono-friends.jp/feed/atom/"/>
-			<outline text="STORY | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=story"/>
-			<outline text="ANIME MOVIE | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=movie"/>
-			<outline text="GAME | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=gamelist"/>
-			<outline text="STAGE | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=stagelist"/>
-			<outline text="MUSIC | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=musiclist"/>
-			<outline text="LIVE | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=livelist"/>
-			<outline text="EVENT / COLLAB | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=eventlist"/>
+			<outline text="けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/news/" xmlUrl="https://kemono-friends.jp/feed/atom/"/>
+			<outline text="STORY | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/anime/story/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=story"/>
+			<outline text="ANIME MOVIE | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/anime/movie/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=movie"/>
+			<outline text="GAME | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/game/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=gamelist"/>
+			<outline text="STAGE | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/stage/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=stagelist"/>
+			<outline text="MUSIC | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/music/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=musiclist"/>
+			<outline text="LIVE | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/live/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=livelist"/>
+			<outline text="EVENT / COLLAB | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/event-collab/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=eventlist"/>
 		</outline>
-		<outline text="けものフレンズ" type="rss" version="RSS" htmlUrl="https://kemofure.bushimo.jp/" xmlUrl="https://kemofure.bushimo.jp/feed/atom/"/>
+		<outline text="けものフレンズ" type="rss" version="RSS" htmlUrl="https://kemofure.bushimo.jp/news/" xmlUrl="https://kemofure.bushimo.jp/feed/atom/"/>
 		<outline text="動画">
 			<outline text="『けものフレンズプロジェクト』公式" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCEOugXOAfa-HRmRjKbH8z3Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEOugXOAfa-HRmRjKbH8z3Q"/>
 			<outline text="けものフレンズ チャンネル動画‐niconico" type="rss" version="RSS" htmlUrl="https://ch.nicovideo.jp/ch2628354/video" xmlUrl="https://ch.nicovideo.jp/kemono-friends/video?rss=2.0"/>
-			<outline text="けものフレンズ チャンネル生放送 - niconico" type="rss" version="RSS" htmlUrl="" xmlUrl="https://ch.nicovideo.jp/kemono-friends/live?rss=2.0"/>
+			<outline text="けものフレンズ チャンネル生放送 - niconico" type="rss" version="RSS" htmlUrl="https://ch.nicovideo.jp/ch2628354/live" xmlUrl="https://ch.nicovideo.jp/kemono-friends/live?rss=2.0"/>
 			<outline text="けものフレンズ２ チャンネル動画‐niconico" type="rss" version="RSS" htmlUrl="https://ch.nicovideo.jp/ch2639991/video" xmlUrl="https://ch.nicovideo.jp/kemono-friends2/video?rss=2.0"/>
-			<outline text="けものフレンズ２ チャンネル生放送 - niconico" type="rss" version="RSS" htmlUrl="" xmlUrl="https://ch.nicovideo.jp/kemono-friends2/live?rss=2.0"/>
-			<outline text="けものフレンズ３" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLrP0DcUHUDbjaJsepK9kt-5lddMznBlhO"/>
+			<outline text="けものフレンズ２ チャンネル生放送 - niconico" type="rss" version="RSS" htmlUrl="https://ch.nicovideo.jp/ch2639991/live" xmlUrl="https://ch.nicovideo.jp/kemono-friends2/live?rss=2.0"/>
+			<outline text="けものフレンズ３" type="rss" version="RSS" htmlUrl="https://www.youtube.com/playlist?list=PLrP0DcUHUDbjaJsepK9kt-5lddMznBlhO" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLrP0DcUHUDbjaJsepK9kt-5lddMznBlhO"/>
 			<outline text="けものフレンズ3 チャンネル動画‐niconico" type="rss" version="RSS" htmlUrl="https://ch.nicovideo.jp/ch2640885/video" xmlUrl="https://ch.nicovideo.jp/kemono-friends3/video?rss=2.0"/>
-			<outline text="けものフレンズ3 チャンネル生放送 - niconico" type="rss" version="RSS" htmlUrl="" xmlUrl="https://ch.nicovideo.jp/kemono-friends3/live?rss=2.0"/>
+			<outline text="けものフレンズ3 チャンネル生放送 - niconico" type="rss" version="RSS" htmlUrl="https://ch.nicovideo.jp/ch2640885/live" xmlUrl="https://ch.nicovideo.jp/kemono-friends3/live?rss=2.0"/>
 			<outline text="東武ジャパリパーク" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCkixBP-HQPS0lOyCpdFWQEg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkixBP-HQPS0lOyCpdFWQEg"/>
 		</outline>
 		<outline text="Gothic×Luck">
 			<outline text="Gothic×Luckの最新情報" type="rss" version="RSS" htmlUrl="https://www.jvcmusic.co.jp/-/Artist/A026397.html" xmlUrl="https://www.jvcmusic.co.jp/-/ArtistRSS/A026397.xml"/>
-			<outline text="Gothic×Luck（ゴシックラック）オフィシャルサイト" type="rss" version="RSS" htmlUrl="https://gclk.jp/" xmlUrl="https://gclk.jp/feed/atom/"/>
-			<outline text="EVENT | Gothic×Luck（ゴシックラック）オフィシャルサイト" type="rss" version="RSS" htmlUrl="https://gclk.jp/" xmlUrl="https://gclk.jp/feed/atom/?post_type=event"/>
-			<outline text="DISCOGRAPHY | Gothic×Luck（ゴシックラック）オフィシャルサイト" type="rss" version="RSS" htmlUrl="https://gclk.jp/" xmlUrl="https://gclk.jp/feed/atom/?post_type=discography"/>
+			<outline text="Gothic×Luck（ゴシックラック）オフィシャルサイト" type="rss" version="RSS" htmlUrl="https://gclk.jp/news/" xmlUrl="https://gclk.jp/feed/atom/"/>
+			<outline text="EVENT | Gothic×Luck（ゴシックラック）オフィシャルサイト" type="rss" version="RSS" htmlUrl="https://gclk.jp/event/" xmlUrl="https://gclk.jp/feed/atom/?post_type=event"/>
+			<outline text="DISCOGRAPHY | Gothic×Luck（ゴシックラック）オフィシャルサイト" type="rss" version="RSS" htmlUrl="https://gclk.jp/discography/" xmlUrl="https://gclk.jp/feed/atom/?post_type=discography"/>
 			<outline text="Gothic×Luck（ゴシックラック）オフィシャルサイト" type="rss" version="RSS" htmlUrl="https://gclk.jp/" xmlUrl="https://gclk.jp/feed/atom/?post_type=campaign"/>
 		</outline>
 		<outline text="旧公式サイト">
-			<outline text="けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends-20170110.jp/" xmlUrl="https://kemono-friends-20170110.jp/feed/atom/"/>
-			<outline text="けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends-20170110.jp/" xmlUrl="https://kemono-friends-20170110.jp/feed/atom/?post_type=movie"/>
-			<outline text="けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends-20170110.jp/" xmlUrl="https://kemono-friends-20170110.jp/feed/atom/?post_type=story"/>
+			<outline text="けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends-20170110.jp/archives/category/news/" xmlUrl="https://kemono-friends-20170110.jp/feed/atom/"/>
+			<outline text="けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends-20170110.jp/movie/" xmlUrl="https://kemono-friends-20170110.jp/feed/atom/?post_type=movie"/>
+			<outline text="けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends-20170110.jp/story/" xmlUrl="https://kemono-friends-20170110.jp/feed/atom/?post_type=story"/>
 		</outline>
 	</body>
 </opml>
