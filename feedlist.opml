@@ -15,6 +15,7 @@
 			<outline text="EVENT / COLLAB | けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp/event-collab/" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=eventlist"/>
 		</outline>
 		<outline text="けものフレンズ" type="rss" version="RSS" htmlUrl="https://kemofure.bushimo.jp/news/" xmlUrl="https://kemofure.bushimo.jp/feed/atom/"/>
+		<outline text="どうぶつビスケッツ×PPPの最新情報" type="rss" version="RSS" htmlUrl="https://www.jvcmusic.co.jp/-/Artist/A025684.html" xmlUrl="https://www.jvcmusic.co.jp/-/ArtistRSS/A025684.xml"/>
 		<outline text="動画">
 			<outline text="『けものフレンズプロジェクト』公式" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCEOugXOAfa-HRmRjKbH8z3Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEOugXOAfa-HRmRjKbH8z3Q"/>
 			<outline text="けものフレンズ チャンネル動画‐niconico" type="rss" version="RSS" htmlUrl="https://ch.nicovideo.jp/ch2628354/video" xmlUrl="https://ch.nicovideo.jp/kemono-friends/video?rss=2.0"/>
