@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opml version="2.0" xmlns="http://opml.org/spec2">
+	<head>
+		<title>けものフレンズに関係するかもしれないフィード</title>
+	</head>
+	<body>
+		<outline text="リリース">
+			<outline text="PARCO ニュースリリース" title="PARCO ニュースリリース" type="rss" version="RSS" htmlUrl="https://www.parco.co.jp/news/" xmlUrl="https://www.parco.co.jp/xml/news/rss10.rdf" />
+			<outline text="PR TIMES" title="PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/index.rdf" />
+			<outline text="WORKS | 株式会社Y&apos;s | Y&apos;s Inc." title="株式会社Y&apos;s | Y&apos;s Inc." type="rss" version="RSS" htmlUrl="https://ysinc.co.jp" xmlUrl="https://ysinc.co.jp/feed/atom/?post_type=worksdata" />
+			<outline text="株式会社Y's | Y's Inc." title="株式会社Y&apos;s | Y&apos;s Inc." type="rss" version="RSS" htmlUrl="https://ysinc.co.jp/feed/atom/" xmlUrl="https://ysinc.co.jp/feed/atom/" />
+			<outline text="アニソン！プレミアム！ブログ" title="アニソン！プレミアム！ブログ" type="rss" version="RSS" htmlUrl="http://www.nhk.or.jp/anisonpremium-blog/" xmlUrl="https://www.nhk.or.jp/anisonpremium-blog/index.xml" />
+			<outline text="タイレルシステムズ » News" title="タイレルシステムズ » News" type="rss" version="RSS" htmlUrl="https://www.tyrellsys.com" xmlUrl="https://www.tyrellsys.com/news/feed/atom/" />
+			<outline text="フリュー株式会社【プレスリリース】 by PR TIMES" title="フリュー株式会社【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=5167" />
+			<outline text="株式会社CyberZ【プレスリリース】 by PR TIMES" title="株式会社CyberZ【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=6792" />
+			<outline text="株式会社GOODROID | 圧倒的おもしろカンパニーへ！ » INFORMATIONS" title="株式会社GOODROID | 圧倒的おもしろカンパニーへ！ » INFORMATIONS" type="rss" version="RSS" htmlUrl="https://goodroid.co.jp" xmlUrl="https://goodroid.co.jp/informations/feed/atom/" />
+			<outline text="株式会社GOODROID | 圧倒的おもしろカンパニーへ！ » PRESSES" title="株式会社GOODROID | 圧倒的おもしろカンパニーへ！ » PRESSES" type="rss" version="RSS" htmlUrl="https://goodroid.co.jp" xmlUrl="https://goodroid.co.jp/presses/feed/atom" />
+			<outline text="株式会社GOODROID | 圧倒的おもしろカンパニーへ！ » SERVICES" title="株式会社GOODROID | 圧倒的おもしろカンパニーへ！ » SERVICES" type="rss" version="RSS" htmlUrl="https://goodroid.co.jp" xmlUrl="https://goodroid.co.jp/services-type/feed/atom/" />
+			<outline text="株式会社KADOKAWA【プレスリリース】 by PR TIMES" title="株式会社KADOKAWA【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=7006" />
+			<outline text="株式会社サイバーエージェントの更新情報" title="株式会社サイバーエージェントの更新情報" type="rss" version="RSS" htmlUrl="https://www.cyberagent.co.jp/" xmlUrl="https://www.cyberagent.co.jp/RSS.rdf" />
+			<outline text="株式会社セガゲームス【プレスリリース】 by PR TIMES" title="株式会社セガゲームス【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=5397" />
+			<outline text="株式会社テレビ東京ホールディングス" title="株式会社テレビ東京ホールディングス" type="rss" version="RSS" htmlUrl="http://www.txhd.co.jp" xmlUrl="https://www.txhd.co.jp/rss.xml" />
+			<outline text="株式会社テレビ東京ホールディングス【プレスリリース】 by PR TIMES" title="株式会社テレビ東京ホールディングス【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=2734" />
+			<outline text="株式会社ブシロード【プレスリリース】 by PR TIMES" title="株式会社ブシロード【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=14827" />
+		</outline>
+		<outline text="配信">
+			<outline text="Latest Crunchyroll Videos" title="Latest Crunchyroll Videos" type="rss" version="RSS" htmlUrl="http://www.crunchyroll.com/" xmlUrl="https://feeds.feedburner.com/crunchyroll/rss" />
+		</outline>
+		<outline text="動画">
+			<outline text="KADOKAWAanime - YouTube" title="KADOKAWAanime" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCY5fcqgSrQItPAX_Z5Frmwg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY5fcqgSrQItPAX_Z5Frmwg" />
+			<outline text="SEGA - YouTube" title="SEGA" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCVkqs_Q88BDmyaWwjYJ8_Ig" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVkqs_Q88BDmyaWwjYJ8_Ig" />
+			<outline text="Victor Entertainment - YouTube" title="Victor Entertainment" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4YT50DP7hbMsor8FmyEPMw" />
+			<outline text="セガゲームス公式アプリ - YouTube" title="セガゲームス公式アプリ" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC3tZDwLVGnZKl9477fCxhGQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3tZDwLVGnZKl9477fCxhGQ" />
+			<outline text="テレビ東京公式 TV TOKYO - YouTube" title="テレビ東京公式 TV TOKYO" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCrDj5t8Q9ZFSGft7a3PWl9g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrDj5t8Q9ZFSGft7a3PWl9g" />
+			<outline text="ブシロード公式チャンネル - YouTube" title="ブシロード公式チャンネル" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCFoS_FzutpGb3EDH3dZ47sw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFoS_FzutpGb3EDH3dZ47sw" />
+		</outline>
+		<outline text="カタログ">
+			<outline text="メーカー">
+				<outline text="GOOD SMILE COMPANY" title="GOOD SMILE COMPANY" type="rss" version="RSS" htmlUrl="https://www.goodsmile.info" xmlUrl="https://www.goodsmile.info/ja.atom" />
+				<outline text="GOOD SMILE COMPANY - English" title="GOOD SMILE COMPANY - English" type="rss" version="RSS" htmlUrl="https://www.goodsmile.info" xmlUrl="https://www.goodsmile.info/en.atom" />
+				<outline text="GraffArt SHOP with A3 MARKET ONLINE" title="GraffArt SHOP with A3 MARKET ONLINE" type="rss" version="RSS" htmlUrl="http://kyaragoods.shop-pro.jp/" xmlUrl="http://kyaragoods.shop-pro.jp/?mode=atom" />
+				<outline text="しーぷらショップ" title="しーぷらショップ" type="rss" version="RSS" htmlUrl="https://seasonalplants.shop-pro.jp/" xmlUrl="https://seasonalplants.shop-pro.jp/?mode=atom" />
+				<outline text="コミックマーケット | KADOKAWAブースインフォメーションサイト" title="コミックマーケット" type="rss" version="RSS" htmlUrl="http://event.kadokawa.co.jp/comiket/" xmlUrl="http://event.kadokawa.co.jp/comiket/rss2.xml" />
+				<outline text="商品ブランド一覧｜フィギュアの造形企画製作、販売を行う株式会社海洋堂" title="商品" type="rss" version="RSS" htmlUrl="http://kaiyodo.co.jp/items" xmlUrl="http://kaiyodo.co.jp/items/feed/atom/" />
+				<outline text="角川つばさ文庫" title="角川つばさ文庫" type="rss" version="RSS" htmlUrl="http://tsubasabunko.jp/" xmlUrl="https://tsubasabunko.jp/rss2.xml" />
+			</outline>
+			<outline text="流通">
+				<outline text="CLION MARKET" title="CLION MARKET" type="rss" version="RSS" htmlUrl="http://clionmarket.jp/" xmlUrl="http://clionmarket.jp/?mode=atom" />
+			</outline>
+		</outline>
+		<outline text="グッズ系リリース">
+			<outline text="【痛傘メーカー】Seasonal　Plants" title="【痛傘メーカー】Seasonal　Plants" type="rss" version="RSS" htmlUrl="https://ameblo.jp/seasonal-plants/" xmlUrl="http://rssblog.ameba.jp/seasonal-plants/rss20.xml" />
+			<outline text="イベント・特集一覧｜フィギュアの造形企画製作、販売を行う株式会社海洋堂" title="event" type="rss" version="RSS" htmlUrl="http://kaiyodo.co.jp/event" xmlUrl="http://kaiyodo.co.jp/event/feed/atom/" />
+			<outline text="フィギュアの造形企画製作、販売の株式会社海洋堂" title="kaiyodo" type="rss" version="RSS" htmlUrl="http://kaiyodo.co.jp" xmlUrl="http://kaiyodo.co.jp/feed/atom/" />
+			<outline text="お知らせ｜フィギュアの造形企画製作、販売を行う株式会社海洋堂" title="news" type="rss" version="RSS" htmlUrl="http://kaiyodo.co.jp/news" xmlUrl="http://kaiyodo.co.jp/news/feed/atom/" />
+			<outline text="ファッションセンターしまむら" title="ファッションセンターしまむら" type="rss" version="RSS" htmlUrl="https://www.shimamura.gr.jp/shimamura" xmlUrl="https://www.shimamura.gr.jp/shimamura/feed/atom/" />
+			<outline text="海洋堂広報ブログ" title="海洋堂広報ブログ" type="rss" version="RSS" htmlUrl="http://kaiyodo.co.jp/k-blog" xmlUrl="http://kaiyodo.co.jp/k-blog/feed/atom/" />
+			<outline text="白糸酒造株式会社" title="白糸酒造株式会社" type="rss" version="RSS" htmlUrl="http://sake-shiraito.com" xmlUrl="http://rss.ktmhp.com/shiraito/rss20.xml" />
+		</outline>
+		<outline text="プレス">
+			<outline text="「総合ニュース一覧」　アキバ総研のRSS" title="「総合ニュース一覧」　アキバ総研のRSS" type="rss" version="RSS" htmlUrl="https://akiba-souken.com/article/" xmlUrl="https://akiba-souken.com/feed/all/" />
+			<outline text="4Gamer.net − 最新記事" title="4Gamer.net − 最新記事" type="rss" version="RSS" htmlUrl="https://www.4gamer.net" xmlUrl="https://www.4gamer.net/rss/index.xml" />
+			<outline text="Latest in Anime News by Crunchyroll!" title="Latest in Anime News by Crunchyroll!" type="rss" version="RSS" htmlUrl="https://www.crunchyroll.com/news" xmlUrl="https://feeds.feedburner.com/crunchyroll/animenews" />
+			<outline text="WebNewtype" title="WebNewtype" type="rss" version="RSS" htmlUrl="https://webnewtype.com/" xmlUrl="https://webnewtype.com/xml/" />
+			<outline text="アニメ！アニメ！" title="アニメ！アニメ！" type="rss" version="RSS" htmlUrl="https://animeanime.jp/" xmlUrl="https://animeanime.jp/rss/index.rdf" />
+			<outline text="ファミ通App" title="ファミ通App" type="rss" version="RSS" htmlUrl="https://app.famitsu.com" xmlUrl="https://app.famitsu.com/feed/atom/" />
+			<outline text="リアルサウンド" title="リアルサウンド" type="rss" version="RSS" htmlUrl="http://realsound.jp/" xmlUrl="https://realsound.jp/atom.xml" />
+			<outline text="超！アニメディア" title="超！アニメディア" type="rss" version="RSS" htmlUrl="https://cho-animedia.jp" xmlUrl="https://cho-animedia.jp/feed/atom/" />
+			<outline text="コミックナタリー - 最新ニュース" title="コミックナタリー - 最新ニュース" type="rss" version="RSS" htmlUrl="https://natalie.mu/comic" xmlUrl="https://natalie.mu/comic/feed/news" />
+			<outline text="ステージナタリー - 最新ニュース" title="ステージナタリー - 最新ニュース" type="rss" version="RSS" htmlUrl="https://natalie.mu/stage" xmlUrl="https://natalie.mu/stage/feed/news" />
+			<outline text="音楽ナタリー - 最新ニュース" title="音楽ナタリー - 最新ニュース" type="rss" version="RSS" htmlUrl="https://natalie.mu/music" xmlUrl="https://natalie.mu/music/feed/news" />
+			<outline text="映画ナタリー - 最新ニュース" title="映画ナタリー - 最新ニュース" type="rss" version="RSS" htmlUrl="https://natalie.mu/eiga" xmlUrl="https://natalie.mu/eiga/feed/news" />
+		</outline>
+	</body>
+</opml>
