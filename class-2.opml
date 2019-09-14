@@ -2,6 +2,7 @@
 <opml version="2.0" xmlns="http://opml.org/spec2">
 	<head>
 		<title>けものフレンズに関係するかもしれないフィード</title>
+		<dateModified>Sat, 14 Sep 2019 05:27:01 +0000</dateModified>
 	</head>
 	<body>
 		<outline text="リリース">
@@ -11,6 +12,7 @@
 			<outline text="株式会社Y's | Y's Inc." title="株式会社Y&apos;s | Y&apos;s Inc." type="rss" version="RSS" htmlUrl="https://ysinc.co.jp/feed/atom/" xmlUrl="https://ysinc.co.jp/feed/atom/" />
 			<outline text="アニソン！プレミアム！ブログ" title="アニソン！プレミアム！ブログ" type="rss" version="RSS" htmlUrl="http://www.nhk.or.jp/anisonpremium-blog/" xmlUrl="https://www.nhk.or.jp/anisonpremium-blog/index.xml" />
 			<outline text="タイレルシステムズ » News" title="タイレルシステムズ » News" type="rss" version="RSS" htmlUrl="https://www.tyrellsys.com" xmlUrl="https://www.tyrellsys.com/news/feed/atom/" />
+			<outline text="ニュース – 株式会社セガ・インタラクティブ" title="ニュース – 株式会社セガ・インタラクティブ" type="rss" version="RSS" htmlUrl="https://sega-interactive.co.jp" xmlUrl="https://sega-interactive.co.jp/news/feed/atom/" />
 			<outline text="フリュー株式会社【プレスリリース】 by PR TIMES" title="フリュー株式会社【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=5167" />
 			<outline text="株式会社CyberZ【プレスリリース】 by PR TIMES" title="株式会社CyberZ【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=6792" />
 			<outline text="株式会社GOODROID | 圧倒的おもしろカンパニーへ！ » INFORMATIONS" title="株式会社GOODROID | 圧倒的おもしろカンパニーへ！ » INFORMATIONS" type="rss" version="RSS" htmlUrl="https://goodroid.co.jp" xmlUrl="https://goodroid.co.jp/informations/feed/atom/" />
@@ -43,6 +45,7 @@
 				<outline text="コミックマーケット | KADOKAWAブースインフォメーションサイト" title="コミックマーケット" type="rss" version="RSS" htmlUrl="http://event.kadokawa.co.jp/comiket/" xmlUrl="http://event.kadokawa.co.jp/comiket/rss2.xml" />
 				<outline text="商品ブランド一覧｜フィギュアの造形企画製作、販売を行う株式会社海洋堂" title="商品" type="rss" version="RSS" htmlUrl="http://kaiyodo.co.jp/items" xmlUrl="http://kaiyodo.co.jp/items/feed/atom/" />
 				<outline text="角川つばさ文庫" title="角川つばさ文庫" type="rss" version="RSS" htmlUrl="http://tsubasabunko.jp/" xmlUrl="https://tsubasabunko.jp/rss2.xml" />
+				<outline text="製品情報 – 株式会社セガ・インタラクティブ" title="製品情報 – 株式会社セガ・インタラクティブ" type="rss" version="RSS" htmlUrl="https://sega-interactive.co.jp" xmlUrl="https://sega-interactive.co.jp/product/feed/atom/" />
 			</outline>
 			<outline text="流通">
 				<outline text="CLION MARKET" title="CLION MARKET" type="rss" version="RSS" htmlUrl="http://clionmarket.jp/" xmlUrl="http://clionmarket.jp/?mode=atom" />
