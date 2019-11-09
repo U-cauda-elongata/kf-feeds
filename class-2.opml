@@ -14,7 +14,7 @@
 			<outline text="タイレルシステムズ » News" title="タイレルシステムズ » News" type="rss" version="RSS" htmlUrl="https://www.tyrellsys.com" xmlUrl="https://www.tyrellsys.com/news/feed/atom/" />
 			<outline text="ニュース – 株式会社セガ・インタラクティブ" title="ニュース – 株式会社セガ・インタラクティブ" type="rss" version="RSS" htmlUrl="https://sega-interactive.co.jp" xmlUrl="https://sega-interactive.co.jp/news/feed/atom/" />
 			<outline text="フリュー株式会社【プレスリリース】 by PR TIMES" title="フリュー株式会社【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=5167" />
-			<outline text="丸善出版｜お知らせRSS" title="丸善出版｜お知らせRSS" type="rss" version="RSS" htmlUrl="https://www.maruzen-publishing.co.jp/news/" xmlUrl="https://www.maruzen-publishing.co.jp/rss/news/" />
+			<outline text="丸善出版｜お知らせRSS" title="丸善出版｜お知らせRSS" type="rss" version="RSS" xmlUrl="https://www.maruzen-publishing.co.jp/rss/news/" />
 			<outline text="株式会社CyberZ【プレスリリース】 by PR TIMES" title="株式会社CyberZ【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=6792" />
 			<outline text="株式会社GOODROID | 圧倒的おもしろカンパニーへ！ » INFORMATIONS" title="株式会社GOODROID | 圧倒的おもしろカンパニーへ！ » INFORMATIONS" type="rss" version="RSS" htmlUrl="https://goodroid.co.jp" xmlUrl="https://goodroid.co.jp/informations/feed/atom/" />
 			<outline text="株式会社GOODROID | 圧倒的おもしろカンパニーへ！ » PRESSES" title="株式会社GOODROID | 圧倒的おもしろカンパニーへ！ » PRESSES" type="rss" version="RSS" htmlUrl="https://goodroid.co.jp" xmlUrl="https://goodroid.co.jp/presses/feed/atom" />
