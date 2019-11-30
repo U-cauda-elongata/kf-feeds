@@ -44,7 +44,7 @@
 				<outline text="GraffArt SHOP with A3 MARKET ONLINE" title="GraffArt SHOP with A3 MARKET ONLINE" type="rss" version="RSS" htmlUrl="http://kyaragoods.shop-pro.jp/" xmlUrl="http://kyaragoods.shop-pro.jp/?mode=atom" />
 				<outline text="しーぷらショップ" title="しーぷらショップ" type="rss" version="RSS" htmlUrl="https://seasonalplants.shop-pro.jp/" xmlUrl="https://seasonalplants.shop-pro.jp/?mode=atom" />
 				<outline text="コミックマーケット | KADOKAWAブースインフォメーションサイト" title="コミックマーケット" type="rss" version="RSS" htmlUrl="http://event.kadokawa.co.jp/comiket/" xmlUrl="http://event.kadokawa.co.jp/comiket/rss2.xml" />
-				<outline text="商品ブランド一覧｜フィギュアの造形企画製作、販売を行う株式会社海洋堂" title="商品" type="rss" version="RSS" htmlUrl="http://kaiyodo.co.jp/items" xmlUrl="http://kaiyodo.co.jp/items/feed/atom/" />
+				<outline text="商品ブランド一覧｜フィギュアの造形企画製作、販売を行う株式会社海洋堂" title="商品" type="rss" version="RSS" htmlUrl="https://kaiyodo.co.jp/items" xmlUrl="https://kaiyodo.co.jp/items/feed/atom/" />
 				<outline text="角川つばさ文庫" title="角川つばさ文庫" type="rss" version="RSS" htmlUrl="http://tsubasabunko.jp/" xmlUrl="https://tsubasabunko.jp/rss2.xml" />
 				<outline text="製品情報 – 株式会社セガ・インタラクティブ" title="製品情報 – 株式会社セガ・インタラクティブ" type="rss" version="RSS" htmlUrl="https://sega-interactive.co.jp" xmlUrl="https://sega-interactive.co.jp/product/feed/atom/" />
 			</outline>
@@ -54,11 +54,11 @@
 		</outline>
 		<outline text="グッズ系リリース">
 			<outline text="【痛傘メーカー】Seasonal　Plants" title="【痛傘メーカー】Seasonal　Plants" type="rss" version="RSS" htmlUrl="https://ameblo.jp/seasonal-plants/" xmlUrl="http://rssblog.ameba.jp/seasonal-plants/rss20.xml" />
-			<outline text="イベント・特集一覧｜フィギュアの造形企画製作、販売を行う株式会社海洋堂" title="event" type="rss" version="RSS" htmlUrl="http://kaiyodo.co.jp/event" xmlUrl="http://kaiyodo.co.jp/event/feed/atom/" />
-			<outline text="フィギュアの造形企画製作、販売の株式会社海洋堂" title="kaiyodo" type="rss" version="RSS" htmlUrl="http://kaiyodo.co.jp" xmlUrl="http://kaiyodo.co.jp/feed/atom/" />
-			<outline text="お知らせ｜フィギュアの造形企画製作、販売を行う株式会社海洋堂" title="news" type="rss" version="RSS" htmlUrl="http://kaiyodo.co.jp/news" xmlUrl="http://kaiyodo.co.jp/news/feed/atom/" />
+			<outline text="イベント・特集一覧｜フィギュアの造形企画製作、販売を行う株式会社海洋堂" title="event" type="rss" version="RSS" htmlUrl="https://kaiyodo.co.jp/event" xmlUrl="https://kaiyodo.co.jp/event/feed/atom/" />
+			<outline text="フィギュアの造形企画製作、販売の株式会社海洋堂" title="kaiyodo" type="rss" version="RSS" htmlUrl="https://kaiyodo.co.jp" xmlUrl="https://kaiyodo.co.jp/feed/atom/" />
+			<outline text="お知らせ｜フィギュアの造形企画製作、販売を行う株式会社海洋堂" title="news" type="rss" version="RSS" htmlUrl="https://kaiyodo.co.jp/news" xmlUrl="https://kaiyodo.co.jp/news/feed/atom/" />
 			<outline text="ファッションセンターしまむら" title="ファッションセンターしまむら" type="rss" version="RSS" htmlUrl="https://www.shimamura.gr.jp/shimamura" xmlUrl="https://www.shimamura.gr.jp/shimamura/feed/atom/" />
-			<outline text="海洋堂広報ブログ" title="海洋堂広報ブログ" type="rss" version="RSS" htmlUrl="http://kaiyodo.co.jp/k-blog" xmlUrl="http://kaiyodo.co.jp/k-blog/feed/atom/" />
+			<outline text="海洋堂広報ブログ" title="海洋堂広報ブログ" type="rss" version="RSS" htmlUrl="https://kaiyodo.co.jp/k-blog" xmlUrl="https://kaiyodo.co.jp/k-blog/feed/atom/" />
 			<outline text="白糸酒造株式会社" title="白糸酒造株式会社" type="rss" version="RSS" htmlUrl="http://sake-shiraito.com" xmlUrl="http://rss.ktmhp.com/shiraito/rss20.xml" />
 		</outline>
 		<outline text="プレス">
