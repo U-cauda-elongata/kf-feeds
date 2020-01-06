@@ -9,6 +9,7 @@
 			<outline text="PARCO ニュースリリース" title="PARCO ニュースリリース" type="rss" version="RSS" htmlUrl="https://www.parco.co.jp/news/" xmlUrl="https://www.parco.co.jp/xml/news/rss10.rdf" />
 			<outline text="PR TIMES" title="PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/index.rdf" />
 			<outline text="WORKS | 株式会社Y&apos;s | Y&apos;s Inc." title="株式会社Y&apos;s | Y&apos;s Inc." type="rss" version="RSS" htmlUrl="https://ysinc.co.jp" xmlUrl="https://ysinc.co.jp/feed/atom/?post_type=worksdata" />
+			<outline text="Yen Press" title="Yen Press WP" type="rss" version="RSS" htmlUrl="https://yenpress.com" xmlUrl="https://yenpress.com/feed/atom/" />
 			<outline text="株式会社Y's | Y's Inc." title="株式会社Y&apos;s | Y&apos;s Inc." type="rss" version="RSS" htmlUrl="https://ysinc.co.jp/feed/atom/" xmlUrl="https://ysinc.co.jp/feed/atom/" />
 			<outline text="アニソン！プレミアム！ブログ" title="アニソン！プレミアム！ブログ" type="rss" version="RSS" htmlUrl="http://www.nhk.or.jp/anisonpremium-blog/" xmlUrl="https://www.nhk.or.jp/anisonpremium-blog/index.xml" />
 			<outline text="タイレルシステムズ » News" title="タイレルシステムズ » News" type="rss" version="RSS" htmlUrl="https://www.tyrellsys.com" xmlUrl="https://www.tyrellsys.com/news/feed/atom/" />
