@@ -67,7 +67,6 @@
 			<outline text="白糸酒造株式会社" title="白糸酒造株式会社" type="rss" version="RSS" htmlUrl="http://sake-shiraito.com" xmlUrl="http://rss.ktmhp.com/shiraito/rss20.xml" />
 		</outline>
 		<outline text="プレス">
-			<outline text="「総合ニュース一覧」　アキバ総研のRSS" title="「総合ニュース一覧」　アキバ総研のRSS" type="rss" version="RSS" htmlUrl="https://akiba-souken.com/article/" xmlUrl="https://akiba-souken.com/feed/all/" />
 			<outline text="4Gamer.net − 最新記事" title="4Gamer.net − 最新記事" type="rss" version="RSS" htmlUrl="https://www.4gamer.net" xmlUrl="https://www.4gamer.net/rss/index.xml" />
 			<outline text="Latest in Anime News by Crunchyroll!" title="Latest in Anime News by Crunchyroll!" type="rss" version="RSS" htmlUrl="https://www.crunchyroll.com/news" xmlUrl="https://feeds.feedburner.com/crunchyroll/animenews" />
 			<outline text="WebNewtype" title="WebNewtype" type="rss" version="RSS" htmlUrl="https://webnewtype.com/" xmlUrl="https://webnewtype.com/xml/" />
