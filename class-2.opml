@@ -6,6 +6,7 @@
 	</head>
 	<body>
 		<outline text="リリース">
+			<outline text="Media Listing Information" title="Media Listing Information" type="rss" version="RSS" htmlUrl="http://blog.livedoor.jp/schatz_kiste-blog/" xmlUrl="http://blog.livedoor.jp/schatz_kiste-blog/atom.xml" />
 			<outline text="PARCO ニュースリリース" title="PARCO ニュースリリース" type="rss" version="RSS" htmlUrl="https://www.parco.co.jp/news/" xmlUrl="https://www.parco.co.jp/xml/news/rss10.rdf" />
 			<outline text="PR TIMES" title="PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/index.rdf" />
 			<outline text="WORKS | 株式会社Y&apos;s | Y&apos;s Inc." title="株式会社Y&apos;s | Y&apos;s Inc." type="rss" version="RSS" htmlUrl="https://ysinc.co.jp" xmlUrl="https://ysinc.co.jp/feed/atom/?post_type=worksdata" />
@@ -15,6 +16,7 @@
 			<outline text="タイレルシステムズ » News" title="タイレルシステムズ » News" type="rss" version="RSS" htmlUrl="https://www.tyrellsys.com" xmlUrl="https://www.tyrellsys.com/news/feed/atom/" />
 			<outline text="ニュース – 株式会社セガ・インタラクティブ" title="ニュース – 株式会社セガ・インタラクティブ" type="rss" version="RSS" htmlUrl="https://sega-interactive.co.jp" xmlUrl="https://sega-interactive.co.jp/news/feed/atom/" />
 			<outline text="フリュー株式会社【プレスリリース】 by PR TIMES" title="フリュー株式会社【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=5167" />
+			<outline text="催しもの情報" title="催しもの情報" type="rss" version="RSS" htmlUrl="http://blog.livedoor.jp/schatz_kiste/" xmlUrl="http://blog.livedoor.jp/schatz_kiste/atom.xml" />
 			<outline text="丸善出版｜お知らせRSS" title="丸善出版｜お知らせRSS" type="rss" version="RSS" xmlUrl="https://www.maruzen-publishing.co.jp/rss/news/" />
 			<outline text="株式会社CyberZ【プレスリリース】 by PR TIMES" title="株式会社CyberZ【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=6792" />
 			<outline text="株式会社GOODROID | 圧倒的おもしろカンパニーへ！ » INFORMATIONS" title="株式会社GOODROID | 圧倒的おもしろカンパニーへ！ » INFORMATIONS" type="rss" version="RSS" htmlUrl="https://goodroid.co.jp" xmlUrl="https://goodroid.co.jp/informations/feed/atom/" />
@@ -26,6 +28,7 @@
 			<outline text="株式会社テレビ東京ホールディングス" title="株式会社テレビ東京ホールディングス" type="rss" version="RSS" htmlUrl="http://www.txhd.co.jp" xmlUrl="https://www.txhd.co.jp/rss.xml" />
 			<outline text="株式会社テレビ東京ホールディングス【プレスリリース】 by PR TIMES" title="株式会社テレビ東京ホールディングス【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=2734" />
 			<outline text="株式会社ブシロード【プレスリリース】 by PR TIMES" title="株式会社ブシロード【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=14827" />
+			<outline text="食堂メニュー" title="食堂メニュー" type="rss" version="RSS" htmlUrl="http://schatzmenu.jugem.jp/" xmlUrl="http://schatzmenu.jugem.jp/?mode=atom" />
 		</outline>
 		<outline text="配信">
 			<outline text="Latest Crunchyroll Videos" title="Latest Crunchyroll Videos" type="rss" version="RSS" htmlUrl="http://www.crunchyroll.com/" xmlUrl="https://feeds.feedburner.com/crunchyroll/rss" />
