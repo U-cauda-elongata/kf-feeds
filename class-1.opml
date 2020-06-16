@@ -15,9 +15,7 @@
 			<outline text="EVENT / COLLAB | けものフレンズプロジェクト" title="けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=eventlist" />
 		</outline>
 		<outline text="けものフレンズ" title="けものフレンズ" type="rss" version="RSS" htmlUrl="https://kemofure.bushimo.jp" xmlUrl="https://kemofure.bushimo.jp/feed/atom/" />
-		<outline text="どうぶつビスケッツ×PPP | ビクターエンタテインメント" title="どうぶつビスケッツ×PPPの最新情報" type="rss" version="RSS" htmlUrl="https://www.jvcmusic.co.jp/-/Artist/A025684.html" xmlUrl="https://www.jvcmusic.co.jp/-/ArtistRSS/A025684.xml" />
 		<outline text="×ジャパリ団">
-			<outline text="×ジャパリ団 | ビクターエンタテインメント" title="ジャパリ団の最新情報" type="rss" version="RSS" htmlUrl="https://www.jvcmusic.co.jp/-/Artist/A026684.html" xmlUrl="https://www.jvcmusic.co.jp/-/ArtistRSS/A026684.xml" />
 			<outline text="×ジャパリ団(ばってんじゃぱりだん)" title="×ジャパリ団(ばってんじゃぱりだん)オフィシャルサイト" type="rss" version="RSS" htmlUrl="https://x-japaridan.com" xmlUrl="https://x-japaridan.com/feed/atom/" />
 			<outline text="EVENT | ×ジャパリ団(ばってんじゃぱりだん)オフィシャルサイト" title="×ジャパリ団(ばってんじゃぱりだん)オフィシャルサイト" type="rss" version="RSS" htmlUrl="https://x-japaridan.com" xmlUrl="https://x-japaridan.com/feed/atom/?post_type=event" />
 			<outline text="DISCOGRAPHY | ×ジャパリ団(ばってんじゃぱりだん)オフィシャルサイト" title="×ジャパリ団(ばってんじゃぱりだん)オフィシャルサイト" type="rss" version="RSS" htmlUrl="https://x-japaridan.com" xmlUrl="https://x-japaridan.com/feed/atom/?post_type=discography" />
@@ -34,7 +32,6 @@
 			<outline text="東武ジャパリパーク - YouTube" title="東武ジャパリパーク" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCkixBP-HQPS0lOyCpdFWQEg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkixBP-HQPS0lOyCpdFWQEg" />
 		</outline>
 		<outline text="Gothic×Luck">
-			<outline text="Gothic×Luck | ビクターエンタテインメント" title="Gothic×Luckの最新情報" type="rss" version="RSS" htmlUrl="https://www.jvcmusic.co.jp/-/Artist/A026397.html" xmlUrl="https://www.jvcmusic.co.jp/-/ArtistRSS/A026397.xml" />
 			<outline text="Gothic×Luck（ゴシックラック）オフィシャルサイト" title="Gothic×Luck（ゴシックラック）オフィシャルサイト" type="rss" version="RSS" htmlUrl="https://gclk.jp" xmlUrl="https://gclk.jp/feed/atom/" />
 			<outline text="EVENT | Gothic×Luck（ゴシックラック）オフィシャルサイト" title="Gothic×Luck（ゴシックラック）オフィシャルサイト" type="rss" version="RSS" htmlUrl="https://gclk.jp" xmlUrl="https://gclk.jp/feed/atom/?post_type=event" />
 			<outline text="DISCOGRAPHY | Gothic×Luck（ゴシックラック）オフィシャルサイト" title="Gothic×Luck（ゴシックラック）オフィシャルサイト" type="rss" version="RSS" htmlUrl="https://gclk.jp" xmlUrl="https://gclk.jp/feed/atom/?post_type=discography" />
