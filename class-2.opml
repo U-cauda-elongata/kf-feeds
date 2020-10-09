@@ -15,7 +15,6 @@
 			<outline text="アニソン！プレミアム！ブログ" title="アニソン！プレミアム！ブログ" type="rss" version="RSS" htmlUrl="http://www.nhk.or.jp/anisonpremium-blog/" xmlUrl="https://www.nhk.or.jp/anisonpremium-blog/index.xml" />
 			<outline text="タイレルシステムズ » News" title="タイレルシステムズ » News" type="rss" version="RSS" htmlUrl="https://www.tyrellsys.com" xmlUrl="https://www.tyrellsys.com/news/feed/atom/" />
 			<outline text="トピックス一覧 – セガ 製品情報サイト" title="トピックス一覧 – セガ 製品情報サイト" type="rss" version="RSS" htmlUrl="https://sega.jp" xmlUrl="https://sega.jp/news.rdf" />
-			<outline text="ニュース – 株式会社セガ・インタラクティブ" title="ニュース – 株式会社セガ・インタラクティブ" type="rss" version="RSS" htmlUrl="https://sega-interactive.co.jp" xmlUrl="https://sega-interactive.co.jp/news/feed/atom/" />
 			<outline text="フリュー株式会社【プレスリリース】 by PR TIMES" title="フリュー株式会社【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=5167" />
 			<outline text="催しもの情報" title="催しもの情報" type="rss" version="RSS" htmlUrl="http://blog.livedoor.jp/schatz_kiste/" xmlUrl="http://blog.livedoor.jp/schatz_kiste/atom.xml" />
 			<outline text="丸善出版｜お知らせRSS" title="丸善出版｜お知らせRSS" type="rss" version="RSS" xmlUrl="https://www.maruzen-publishing.co.jp/rss/news/" />
@@ -29,7 +28,6 @@
 			<outline text="株式会社テレビ東京ホールディングス" title="株式会社テレビ東京ホールディングス" type="rss" version="RSS" htmlUrl="http://www.txhd.co.jp" xmlUrl="https://www.txhd.co.jp/rss.xml" />
 			<outline text="株式会社テレビ東京ホールディングス【プレスリリース】 by PR TIMES" title="株式会社テレビ東京ホールディングス【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=2734" />
 			<outline text="株式会社ブシロード【プレスリリース】 by PR TIMES" title="株式会社ブシロード【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=14827" />
-			<outline text="食堂メニュー" title="食堂メニュー" type="rss" version="RSS" htmlUrl="http://schatzmenu.jugem.jp/" xmlUrl="http://schatzmenu.jugem.jp/?mode=atom" />
 		</outline>
 		<outline text="配信">
 			<outline text="Latest Crunchyroll Videos" title="Latest Crunchyroll Videos" type="rss" version="RSS" htmlUrl="http://www.crunchyroll.com/" xmlUrl="https://feeds.feedburner.com/crunchyroll/rss" />
@@ -52,7 +50,6 @@
 				<outline text="コミックマーケット | KADOKAWAブースインフォメーションサイト" title="コミックマーケット" type="rss" version="RSS" htmlUrl="http://event.kadokawa.co.jp/comiket/" xmlUrl="http://event.kadokawa.co.jp/comiket/rss2.xml" />
 				<outline text="商品ブランド一覧｜フィギュアの造形企画製作、販売を行う株式会社海洋堂" title="商品" type="rss" version="RSS" htmlUrl="https://kaiyodo.co.jp/items" xmlUrl="https://kaiyodo.co.jp/items/feed/atom/" />
 				<outline text="角川つばさ文庫" title="角川つばさ文庫" type="rss" version="RSS" htmlUrl="http://tsubasabunko.jp/" xmlUrl="https://tsubasabunko.jp/rss2.xml" />
-				<outline text="製品情報 – 株式会社セガ・インタラクティブ" title="製品情報 – 株式会社セガ・インタラクティブ" type="rss" version="RSS" htmlUrl="https://sega-interactive.co.jp" xmlUrl="https://sega-interactive.co.jp/product/feed/atom/" />
 			</outline>
 			<outline text="流通">
 				<outline text="CLION MARKET" title="CLION MARKET" type="rss" version="RSS" htmlUrl="http://clionmarket.jp/" xmlUrl="http://clionmarket.jp/?mode=atom" />
@@ -74,7 +71,7 @@
 			<outline text="アニメ！アニメ！" title="アニメ！アニメ！" type="rss" version="RSS" htmlUrl="https://animeanime.jp/" xmlUrl="https://animeanime.jp/rss/index.rdf" />
 			<outline text="ファミ通App" title="ファミ通App" type="rss" version="RSS" htmlUrl="https://app.famitsu.com" xmlUrl="https://app.famitsu.com/feed/atom/" />
 			<outline text="リアルサウンド" title="リアルサウンド" type="rss" version="RSS" htmlUrl="http://realsound.jp/" xmlUrl="https://realsound.jp/atom.xml" />
-			<outline text="超！アニメディア" title="超！アニメディア" type="rss" version="RSS" htmlUrl="https://cho-animedia.jp" xmlUrl="https://cho-animedia.jp/feed/atom/" />
+			<outline text="超！アニメディア" title="超！アニメディア" type="rss" version="RSS" htmlUrl="https://cho-animedia.jp/" xmlUrl="https://cho-animedia.jp/rss/index.rdf" />
 			<outline text="コミックナタリー - 最新ニュース" title="コミックナタリー - 最新ニュース" type="rss" version="RSS" htmlUrl="https://natalie.mu/comic" xmlUrl="https://natalie.mu/comic/feed/news" />
 			<outline text="ステージナタリー - 最新ニュース" title="ステージナタリー - 最新ニュース" type="rss" version="RSS" htmlUrl="https://natalie.mu/stage" xmlUrl="https://natalie.mu/stage/feed/news" />
 			<outline text="音楽ナタリー - 最新ニュース" title="音楽ナタリー - 最新ニュース" type="rss" version="RSS" htmlUrl="https://natalie.mu/music" xmlUrl="https://natalie.mu/music/feed/news" />
