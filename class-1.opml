@@ -13,6 +13,7 @@
 			<outline text="MUSIC | けものフレンズプロジェクト" title="けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=musiclist" />
 			<outline text="LIVE | けものフレンズプロジェクト" title="けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=livelist" />
 			<outline text="EVENT / COLLAB | けものフレンズプロジェクト" title="けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=eventlist" />
+			<outline text="FRIENDS |けものフレンズプロジェクト" title="けものフレンズプロジェクト" type="rss" version="RSS" htmlUrl="https://kemono-friends.jp" xmlUrl="https://kemono-friends.jp/feed/atom/?post_type=characterlist" />
 		</outline>
 		<outline text="けものフレンズ" title="けものフレンズ" type="rss" version="RSS" htmlUrl="https://kemofure.bushimo.jp" xmlUrl="https://kemofure.bushimo.jp/feed/atom/" />
 		<outline text="×ジャパリ団">
