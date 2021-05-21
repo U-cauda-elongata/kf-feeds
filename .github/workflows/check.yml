@@ -1,0 +1,17 @@
+name: Check
+
+on: [push, pull_request]
+
+jobs:
+  check:
+    name: Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install `xmllint`
+        run: |
+          sudo apt-get install --assume-yes --no-install-recommends libxml2-utils
+      - uses: korelstar/xmllint-problem-matcher@v1
+      - name: Run `xmllint`
+        run: |
+          xmllint --schema .github/workflows/opml-2.0-ns.xsd --noout *.opml
