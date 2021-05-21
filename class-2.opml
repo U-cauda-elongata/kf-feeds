@@ -2,7 +2,7 @@
 <opml version="2.0" xmlns="http://opml.org/spec2">
 	<head>
 		<title>けものフレンズに関係するかもしれないフィード</title>
-		<dateModified>Sat, 14 Sep 2019 05:27:01 +0000</dateModified>
+		<dateModified>Fri, 21 May 2021 04:25:34 +0000</dateModified>
 	</head>
 	<body>
 		<outline text="リリース">
@@ -16,6 +16,7 @@
 			<outline text="タイレルシステムズ » News" title="タイレルシステムズ » News" type="rss" version="RSS" htmlUrl="https://www.tyrellsys.com" xmlUrl="https://www.tyrellsys.com/news/feed/atom/" />
 			<outline text="トピックス一覧 – セガ 製品情報サイト" title="トピックス一覧 – セガ 製品情報サイト" type="rss" version="RSS" htmlUrl="https://sega.jp" xmlUrl="https://sega.jp/news.rdf" />
 			<outline text="フリュー株式会社【プレスリリース】 by PR TIMES" title="フリュー株式会社【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=5167" />
+			<outline text="メディコス・エンタテインメント　公式サイト" title="メディコス・エンタテインメント　公式サイト" type="rss" version="RSS" htmlUrl="https://www.medicos-e.net" xmlUrl="https://www.medicos-e.net/feed/atom/" />
 			<outline text="催しもの情報" title="催しもの情報" type="rss" version="RSS" htmlUrl="http://blog.livedoor.jp/schatz_kiste/" xmlUrl="http://blog.livedoor.jp/schatz_kiste/atom.xml" />
 			<outline text="丸善出版｜お知らせRSS" title="丸善出版｜お知らせRSS" type="rss" version="RSS" xmlUrl="https://www.maruzen-publishing.co.jp/rss/news/" />
 			<outline text="株式会社CyberZ【プレスリリース】 by PR TIMES" title="株式会社CyberZ【プレスリリース】 by PR TIMES" type="rss" version="RSS" htmlUrl="https://prtimes.jp" xmlUrl="https://prtimes.jp/companyrdf.php?company_id=6792" />
